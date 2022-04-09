@@ -37,6 +37,7 @@ public class insertion_sort {
 		}
 		System.out.println("\nsorted array:    ");
 		printArray(arr);
+		sc.close();
 	}
 
 }

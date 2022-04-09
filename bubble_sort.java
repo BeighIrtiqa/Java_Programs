@@ -50,7 +50,7 @@ public class bubble_sort {
 //		print sorted array
 		System.out.println("Sorted Output Array");
 		printArray(arr);
-			
+		s.close();
 	}
 
 }
