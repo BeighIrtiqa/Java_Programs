@@ -38,6 +38,7 @@ public class selection_sort {
 		}
 	System.out.println("\nSorted array:   ");
 	printArray(arr);
+	sc.close();
 	}
 }
 
